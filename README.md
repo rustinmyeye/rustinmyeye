@@ -2,6 +2,7 @@
 - 👀 I’m interested in different types of cookies
 - 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on picking on rero
+- 🖥 I'm bad with computer stuff
 - 📫 How to reach me - ?... telegram or something
 
 <!---
