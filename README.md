@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on messing with rero
 - 🖥 I'm bad with computer stuff
-- 📫 How to reach me - ?... telegram or something
+- 📫 How to reach me - ?... telegram or something. @rustinmyeye 
 
 <!---
 rustinmyeye/rustinmyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
